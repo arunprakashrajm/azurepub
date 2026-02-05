@@ -60,8 +60,6 @@ base
 
 
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 ## 1. Task Restatement
 
 You want to expand the endpoint summary table with additional charts/tables for: **failure analysis, throughput analysis, response time per operation, and Top 10 slow SQL/Snowflake/API calls**.[^1][^2][^3]
